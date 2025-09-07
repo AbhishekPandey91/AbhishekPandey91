@@ -1,6 +1,7 @@
 # Hi there 👋, I'm Abhishek Pandey
 
-### Passionate Tech Enthusiast | AI&ML Engineer
+### Passionate Tech Enthusiast | AI & ML Engineer 
+
 Welcome to my GitHub! I'm dedicated to pushing the boundaries of Machine Learning, Deep Learning, and Audio Processing through innovative projects and real-world applications.
 
 ---
@@ -69,6 +70,11 @@ Creating interactive ML applications using Streamlit, featuring chat analyzers a
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+**ML Algorithms Expertise:**
+- **Supervised Learning:** Linear Regression, Logistic Regression, Decision Tree, Support Vector Machine, Regression Tree
+- **Unsupervised Learning:** K-Means Clustering, Hierarchical Clustering, DBSCAN, Gaussian Mixture Model
+- **Deep Learning:** CNN, RNN, LSTM, BiLSTM, GRU, Transformers, GANs
 
 ### Data Analysis & Visualization
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
